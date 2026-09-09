@@ -980,7 +980,7 @@
     <!-- 1. HERO VIDEO FULLSCREEN -->
     <div class="hero-video-container">
       <video id="hero-video" autoplay loop muted playsinline>
-        <source src="Tambahkan subjudul. mp4" type="video/mp4">
+        <source src="Tambahkan subjudul.mp4" type="video/mp4">
       </video>
       <div class="scroll-hint">
         <p style="font-size: 0.75rem; letter-spacing: 1px;">GULIR KE BAWAH</p>
